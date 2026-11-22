@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Reality Scanner X</string>
+    <string name="title_activity_main">Reality Scanner X</string>
+    <string name="package_name">com.jerrycog.realityscannerx</string>
+    <string name="custom_url_scheme">com.jerrycog.realityscannerx</string>
+</resources>
